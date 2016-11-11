@@ -86,4 +86,5 @@ d3.csv("data.csv", function(data) {
 								.attr("cx", x.bandwidth()/2)
 								.attr("cy", function(d, i) { return y(i); })
 								.attr("r", y.bandwidth()/2)
+								.style("fill", "steelblue")
 });
