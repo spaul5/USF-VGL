@@ -1,0 +1,8 @@
+d3.nest to group together entries by parameter
+
+
+d3.stack() for stacked bar chart
+
+bubble plot
+
+isotype bar chart
