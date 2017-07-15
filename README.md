@@ -7,10 +7,11 @@ Run with docker using run_locally.sh
 
 Links for each viz:
 
+localhost/Bar%20Chart/barChart.html
 
-localhost/ScatterPlot/scatterPlotSimple.html
+localhost/Scatter%20Plot/scatterPlotSimple.html
 
-localhost/ScatterPlot/scatterPlot2.html
+localhost/Scatter%20Plot/scatterPlot2.html
 
 localhost/Isotype/bubbleChart.html
 
