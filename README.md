@@ -1,7 +1,7 @@
 # USF-VGL
 d3 visualizations while doing research for USF
 
-Run with docker using run_locally.sh
+Run with docker using run_locally.sh \n
 Links for each viz:
 
 localhost/ScatterPlot/scatterPlotSimple.html 
