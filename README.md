@@ -1,35 +1,16 @@
 # USF-VGL
 d3 visualizations while doing research for USF
 
+To see visualizations locally
 
-Run with docker using run_locally.sh
+1) To run visualizations locally, install Docker: https://store.docker.com/search?type=edition&offering=community
+2) bash run_locally.sh 
 
 
-Links for each viz:
-
-localhost/Bar%20Chart/barChart.html
-
-localhost/Scatter%20Plot/scatterPlotSimple.html
-
-localhost/Scatter%20Plot/scatterPlot2.html
-
-localhost/Isotype/bubbleChart.html
-
-localhost/Midwest/educationStackedBarChart.html
-
-localhost/Midwest/midwest.html
-
-localhost/Midwest/midwestLog.html
-
-localhost/Midwest/PopDensityvsPoverty.html
-
-localhost/Midwest/populationStackedBarChart.html
-
-localhost/IsoScatter/ 
+To see links in browser:
+  http://localhost/Midwest/populationStackedBarChart.html
+  http://localhost/IsoScatter/ 
 
 // hover over central dots for position and size in IsoScatter plot
 
-
-Midwest: different visualizations based on US Census data from the midwest US states.
-
-IsoScatter: A scatter plot using isotypes (in this case many same sized circles) to add more dimensions to the visualization. 
+A scatter plot using isotypes (in this case many same sized circles) to add more dimensions to the visualization.
