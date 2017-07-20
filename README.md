@@ -7,4 +7,5 @@ d3 visualizations while doing research for USF
 2) bash run_locally.sh 
 3) To see visualizations:
 http://localhost/Midwest/populationStackedBarChart.html
+
 http://localhost/IsoScatter/ 
